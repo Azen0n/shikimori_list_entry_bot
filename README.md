@@ -10,6 +10,9 @@ To use following inline command tag the bot in any chat. While typing anime titl
 @shikimori_list_entry_bot Nickname::Anime title
 ```
 Note: Nickname must be exact match of one at [shikimori.one](https://shikimori.one) user profile url.
+
+<hr>
+
 ### Example
 ```text
 @shikimori_list_entry_bot Azenon::Shingeki no Kyojin
