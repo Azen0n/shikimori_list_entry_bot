@@ -22,3 +22,6 @@ After selecting title from list you'll send message with "via @" and this result
 ![img.png](https://i.imgur.com/bgdMaW5.png)
 
 If the list doesn't appear, make sure that entered nickname and title query is correct, bot is running and `rps` / `rpm` not exceed.
+
+### Installation
+Set [Shikimori application](https://shikimori.one/oauth) `USER_AGENT`, [Telegram bot](https://docs.python-telegram-bot.org/en/stable/index.html) `TOKEN` and `BOT_USERNAME` environment variables and install Python dependencies from `requirements.txt`, then run `bot.py`.
